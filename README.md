@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deon62
-- 👀 I’m interested in Data science and backend web dev
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data science and backend web dev -python flask
+- artificial intelligence dev,macine learning,deep learning and reinforcement learning
+- 🌱 currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email 625deon@gmail.com 
 
