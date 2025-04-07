@@ -21,6 +21,7 @@
 
 <p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Deon62)](https://git.io/streak-stats)
+
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
