@@ -20,7 +20,7 @@
 ## 📈 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deon62&theme=tokyonight" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Deon62)](https://git.io/streak-stats)
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
