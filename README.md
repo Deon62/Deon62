@@ -10,8 +10,8 @@
 
 ## 🛠️ Tech Stack
 - 🔧 Python | Java | Rust | C
-- 🌐 Flask | HTML | CSS | JS
-- 📊 Pandas | Numpy | Scikit-learn | TensorFlow
+- 🌐 Flask | HTML | CSS | JavaScript
+- 📊 Pandas | NumPy | Scikit-learn | TensorFlow
 - 🧠 AI, ML, DL & Reinforcement Learning
 - ☁️ Firebase | Supabase | Git | Linux
 
@@ -20,11 +20,12 @@
 ## 📈 GitHub Stats & Streaks
 
 <p align="center">
-  [[![GitHub Streak](https://streak-stats.demolab.com/?user=Deon62)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=Deon62)
-
-  <br>
+  <a href="https://streak-stats.demolab.com?user=Deon62">
+    <img src="https://streak-stats.demolab.com?user=Deon62&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  </a>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deon62&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
