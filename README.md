@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=DenverCoder1">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Deon62&theme=dark" alt="GitHub Streak" />
   </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
