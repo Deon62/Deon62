@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Deon (@Deon62)
+# 👋 Hi, I’m Deon M. (@Deon62)
 
 🎓 Computer Science student | 💡 AI Enthusiast | 🚀 Future CEO  
 🔍 Passionate about Data Science, AI, Backend Dev (Flask), and Blockchain  
@@ -28,6 +28,12 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deon62&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🔥 Extra Showcase
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Deon62&theme=dark)](https://git.io/streak-stats)
 
 ---
 
