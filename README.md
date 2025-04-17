@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Deon . (@Deon62)
+# 👋 Hi, I’m Deon (@Deon62)
 
 🎓 Computer Science student | 💡 AI Enthusiast | 🚀 Future CEO  
 🔍 Passionate about Data Science, AI, Backend Dev (Flask), and Blockchain  
@@ -9,22 +9,25 @@
 ---
 
 ## 🛠️ Tech Stack
-- 🔧 Python | Java | Rust | C
-- 🌐 Flask | HTML | CSS | JavaScript
-- 📊 Pandas | NumPy | Scikit-learn | TensorFlow
-- 🧠 AI, ML, DL & Reinforcement Learning
-- ☁️ Firebase | Supabase | Git | Linux
+
+- 🔧 Python | Java | Rust | C  
+- 🌐 Flask | HTML | CSS | JavaScript  
+- 📊 Pandas | NumPy | Scikit-learn | TensorFlow  
+- 🧠 AI, ML, DL & Reinforcement Learning  
+- ☁️ Firebase | Supabase | Git | Linux  
 
 ---
 
 ## 📈 GitHub Stats & Streaks
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=DenverCoder1">
-    <img src="https://streak-stats.demolab.com/?user=Deon62&theme=dark" alt="GitHub Streak" />
+  <a href="https://github.com/Deon62">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://streak-stats.demolab.com/?user=Deon62">
+    <img src="https://streak-stats.demolab.com/?user=Deon62&theme=dark" alt="GitHub Streak" />
+  </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deon62&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
