@@ -1,17 +1,26 @@
-# 👋 Hi, I'm Deon (@Deon62)
-🎓 Computer Science student | 💡 AI Enthusiast | 🚀 Future CEO  
-🔍 Passionate about Data Science, AI, Backend Dev (Flask), and Blockchain  
-📚 Currently learning: Java & Rust for Smart Contracts  
-🤝 Always open to exciting collaborations in tech and innovation  
-📫 Reach me: 625deon@gmail.com
+# Hi, I'm Deon (@Deon62)
+
+Computer Science Student | AI Agent Builder | Aspiring Entrepreneur  
+Exploring AI, Data Science, Blockchain & Smart Contracts (Rust + Stellar).  
+Speaker at ETH Safari 2025 | Founder of **ncAgents** (No-Code AI Agents Platform).  
+Passionate about building intelligent systems that merge AI with Web3.  
+
+📫 Reach me: **625deon@gmail.com** | [LinkedIn](#) | [Twitter/X](#)  
 ---
 
-## 🛠️ Tech Stack
-- 🔧 Python | Java | Rust | C  
-- 🌐 Flask | HTML | CSS | JavaScript  
-- 📊 Pandas | NumPy | Scikit-learn | TensorFlow  
-- 🧠 AI, ML, DL & Reinforcement Learning  
-- ☁️ Firebase | Supabase | Git | Linux  
+## Tech & Tools
+- **Languages:** Python, Rust, Java, C, JavaScript  
+- **AI/ML:** TensorFlow, PyTorch, Hugging Face, LangChain, YOLO, OpenCV  
+- **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter  
+- **Backend & Infrastructure:** Flask, Supabase, Firebase, Git, Linux, Docker  
+- **Blockchain & Smart Contracts:** Stellar, Soroban (Rust), Web3  
+---
+
+## Current Focus
+- Building AI Agents (multi-tool, voice-enabled, modular)  
+- Developing **ardena** – a no-code platform for creating and deploying AI agents  
+- Exploring **Stellar Soroban smart contracts** for payments and decentralized finance  
+- Speaking and sharing insights on AI × Blockchain innovation
 ---
 
 ## 🧠 Data Science & AI Stack
@@ -53,7 +62,8 @@
 </p>
 
 ---
-<!---
-Deon62/Deon62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured Projects
+- **[ardena](#)** – No-Code AI Agents platform with Stellar integration  
+- **[Stellar Smart Contracts](#)** – Rust + Soroban experiments  
+- **[liora](#)** – AI agent that initiates conversations  
+- **[AI Agents 101 Course](#)** – Free 10-day learning series on AI agents 
