@@ -1,12 +1,11 @@
 # Hi, I'm Deon (@Deon62)
 
-Computer Science Student | AI Agent Builder | Aspiring Entrepreneur  
-Exploring AI, Data Science, Blockchain & Smart Contracts (Rust + Stellar).  
+Computer science degree holder| AI Engineer | Entrepreneur  
+Exploring Quantum computing, Blockchain & Smart Contracts (Rust + Stellar).  
 Speaker at ETH Safari 2025 | Founder of **ardena** (No-Code AI Agents Platform).  
 Passionate about building intelligent systems that merge AI with Web3.  
 
-📫 Reach me: **625deon@gmail.com** | [LinkedIn](#) | [Twitter/X](#)  
----
+📫 Reach me: **https://deonhq.xyz**
 
 ## Tech & Tools
 - **Languages:** Python, Rust, Java, C, JavaScript  
