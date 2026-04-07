@@ -8,7 +8,7 @@ Passionate about building intelligent systems that merge AI with Web3 to create 
 
 Computer science degree holder| AI Engineer | Entrepreneur  
 Exploring Quantum computing, Blockchain & Smart Contracts (Rust + Stellar).  
-Speaker at ETH Safari 2025 | Founder of **ardena** (No-Code AI Agents Platform).  
+Speaker at ETH Safari 2025 | Founder of **Ardena Platforms Africa Ltd** .  
 Passionate about building intelligent systems that merge AI with Web3.  
 
 📫 Reach me: **https://deonhq.xyz**
