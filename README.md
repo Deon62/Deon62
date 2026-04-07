@@ -95,39 +95,13 @@ Passionate about building intelligent systems that merge AI with Web3.
 
 -----
 
-## 🧠 Data Science & AI Stack
-
-\<p align="left"\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="40" height="40" alt="Python"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)" width="40" height="40" alt="R"/\>
-\<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)" width="40" height="40" alt="Rust"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" width="40" height="40" alt="SQL"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)" width="40" height="40" alt="TensorFlow"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)" width="40" height="40" alt="PyTorch"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)" width="40" height="40" alt="Pandas"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg)" width="40" height="40" alt="Flask"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)" width="40" height="40" alt="Firebase"/\>
-\<img src="[https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png](https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png)" width="40" height="40" alt="Supabase"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="40" height="40" alt="Git"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)" width="40" height="40" alt="Jupyter"/\>
-\<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)" width="40" height="40" alt="OpenCV"/\>
-\<img src="[https://huggingface.co/front/assets/huggingface\_logo.svg](https://huggingface.co/front/assets/huggingface_logo.svg)" width="40" height="40" alt="Hugging Face"/\>
-\<img src="[https://avatars.githubusercontent.com/u/126733545?s=200\&v=4](https://avatars.githubusercontent.com/u/126733545?s=200&v=4)" width="40" height="40" alt="LangChain"/\>
-\</p\>
+I love Bmw😊
 
 -----
 
-## 📈 GitHub Stats & Streaks
 
-\<p align="center"\>
-\<a href="[https://github.com/Deon62](https://github.com/Deon62)"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=Deon62\&show\_icons=true\&theme=radical](https://github-readme-stats.vercel.app/api?username=Deon62&show_icons=true&theme=radical)" alt="GitHub Stats" /\>
-\</a\>
-<br><br>
-\<a href="[https://streak-stats.demolab.com/?user=Deon62](https://streak-stats.demolab.com/?user=Deon62)"\>
-\<img src="[https://streak-stats.demolab.com/?user=Deon62\&theme=dark](https://streak-stats.demolab.com/?user=Deon62&theme=dark)" alt="GitHub Streak" /\>
-\</a\>
-\</p\>
+Well Before i go......here are😒
+
 
 -----
 
